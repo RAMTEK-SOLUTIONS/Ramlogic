@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ramtek-co/Ramlogic/issues"
   },
-  "homepage": "https://github.com/Ramtek-co/Ramlogic#readme"
+  "homepage": "https://github.com/Ramtek-co/Ramlogic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

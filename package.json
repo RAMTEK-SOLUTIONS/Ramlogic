@@ -1,0 +1,19 @@
+{
+  "name": "ramlogic",
+  "version": "1.0.0",
+  "description": "Ramtek's main logic backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramtek-co/Ramlogic.git"
+  },
+  "author": "Ramtek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramtek-co/Ramlogic/issues"
+  },
+  "homepage": "https://github.com/Ramtek-co/Ramlogic#readme"
+}
